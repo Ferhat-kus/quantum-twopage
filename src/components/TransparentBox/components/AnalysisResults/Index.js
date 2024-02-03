@@ -697,7 +697,7 @@ export default class Index extends Component {
             keyExtractor={item => item.id}
             renderItem={({ item }) => this.renderContentItem(item)}
             data={data}
-            showsVerticalScrollIndicator={false} />
+            showsVerticalScrollIndicator={true} />
         </View>
       </View>
     )

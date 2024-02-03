@@ -12,14 +12,14 @@ const data = [
       {
         id: 1,
         Title: 'Genel Bigiler',
-        Icon: require('../../../assets/AnalyzesListIcon/item3.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item3.png'),
         descriptionTitle: 'Projektör',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       },
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon: require('../../../assets/AnalyzesListIcon/item2.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
         descriptionTitle: 'Ferhat',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
@@ -27,7 +27,7 @@ const data = [
       {
         id: 3,
         Title: 'Sosyal & İş Hayatı',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
         descriptionTitle: 'EFE',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
@@ -35,7 +35,7 @@ const data = [
       {
         id: 4,
         Title: 'İlişkiler',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
         descriptionTitle: 'AHMET',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
@@ -45,7 +45,7 @@ const data = [
   {
     id: 2,
     Title: 'Tip',
-    Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
     FreeOrPremium: [
       {
         id: 1,
@@ -53,7 +53,7 @@ const data = [
         descriptionTitle: 'AHMET',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
       },
       {
@@ -62,7 +62,7 @@ const data = [
         descriptionTitle: 'AHMET',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
       },
       {
@@ -71,7 +71,7 @@ const data = [
         descriptionTitle: 'dfsddgf',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
       },
       {
         id: 4,
@@ -79,14 +79,14 @@ const data = [
         descriptionTitle: 'EFE',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
       },
       {
         id: 5,
         Title: 'Sağlık',
         descriptionTitle: 'fgdaggsggggsdg',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
       },
     ]
   },
@@ -110,46 +110,46 @@ const data = [
   {
     id: 4,
     Title: 'Strateji',
-    Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Güçlü Yönler',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
       },
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
       },
     ]
   },
   {
     id: 5,
     Title: 'Merkez',
-    Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Tepe',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -157,25 +157,25 @@ const data = [
       {
         id: 2,
         Title: 'Zihin',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -183,25 +183,25 @@ const data = [
       {
         id: 3,
         Title: 'İfade',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -209,25 +209,25 @@ const data = [
       {
         id: 4,
         Title: 'Benlik',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -235,25 +235,25 @@ const data = [
       {
         id: 5,
         Title: 'İrade',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -261,25 +261,25 @@ const data = [
       {
         id: 6,
         Title: 'Duygu',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -287,25 +287,25 @@ const data = [
       {
         id: 7,
         Title: 'Sakral',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -313,25 +313,25 @@ const data = [
       {
         id: 8,
         Title: 'Dalak',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -339,25 +339,25 @@ const data = [
       {
         id: 9,
         Title: 'Kök',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ],
@@ -367,24 +367,24 @@ const data = [
   {
     id: 6,
     Title: 'Kanallar',
-    Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Kendini Bilme',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -392,19 +392,19 @@ const data = [
       {
         id: 2,
         Title: 'Anlama',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -412,19 +412,19 @@ const data = [
       {
         id: 3,
         Title: 'Savunma',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -432,19 +432,19 @@ const data = [
       {
         id: 4,
         Title: 'Bütünleştirme',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -452,19 +452,19 @@ const data = [
       {
         id: 5,
         Title: 'Merkezlenme',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -472,19 +472,19 @@ const data = [
       {
         id: 6,
         Title: 'İrade',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -492,19 +492,19 @@ const data = [
       {
         id: 7,
         Title: 'Hissetme',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -514,22 +514,22 @@ const data = [
   {
     id: 7,
     Title: 'FERHAT1',
-    Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
     FreeOrPremium: [
       {
         id: 1,
         Title: 'FERHAT2',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'FERHAT3',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -537,19 +537,19 @@ const data = [
       {
         id: 2,
         Title: 'Zihin',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -557,19 +557,19 @@ const data = [
       {
         id: 3,
         Title: 'İfade',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -577,19 +577,19 @@ const data = [
       {
         id: 4,
         Title: 'Benlik',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -597,19 +597,19 @@ const data = [
       {
         id: 5,
         Title: 'İrade',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -617,19 +617,19 @@ const data = [
       {
         id: 6,
         Title: 'Duygu',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -637,19 +637,19 @@ const data = [
       {
         id: 7,
         Title: 'Sakral',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -657,19 +657,19 @@ const data = [
       {
         id: 8,
         Title: 'Dalak',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
@@ -677,19 +677,19 @@ const data = [
       {
         id: 9,
         Title: 'Kök',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
 
           },
         ]
