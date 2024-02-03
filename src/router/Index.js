@@ -1,4 +1,3 @@
-import { Text, StyleSheet, View } from 'react-native'
 import React, { Component } from 'react'
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
@@ -28,4 +27,3 @@ export default class Index extends Component {
     }
 }
 
-const styles = StyleSheet.create({})

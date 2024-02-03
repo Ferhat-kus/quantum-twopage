@@ -1,4 +1,4 @@
-import { StyleSheet, View, FlatList, DeviceEventEmitter } from 'react-native'
+import { StyleSheet, View, FlatList } from 'react-native'
 import React, { Component } from 'react'
 
 import AnalyzesBox from '../../../AnalyzesBox/Index';
@@ -683,12 +683,7 @@ export default class Index extends Component {
         tintColor='white'
         source={item.Icon}
         title={item.Title}
-        onPress={() => {
-          this.props.navigation.navigate('analysisCategoriesPage', { itemId: item.id });
-          console.log(`Pressed on AnalyzesBox with id: ${item.id}`);
-          DeviceEventEmitter.emit('itemPressed', { itemId: item.id });
-
-        }}
+        onPress={() => {this.props.navigation.navigate('analysisCategoriesPage', { itemId: item.id });}}
       />
     );
   }
