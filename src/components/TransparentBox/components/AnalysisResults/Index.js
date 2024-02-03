@@ -48,6 +48,7 @@ const data = [
 
 export default class Index extends Component {
   renderContentItem(item) {
+    const { navigation } = this.props
     return (
       <AnalyzesBox
         borderColor='white'
@@ -55,7 +56,7 @@ export default class Index extends Component {
         tintColor='white'
         source={item.Icon}
         title={item.Title}
-        onPress={() => { this.props.navigation.navigate('analysisCategoriesPage', { itemId: item.id }); }}
+        onPress={() => {navigation.navigate('analysisCategoriesPage', { itemId: item.id }); }}
       />
     );
   }
