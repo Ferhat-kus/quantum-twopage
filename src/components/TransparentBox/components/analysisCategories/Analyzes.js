@@ -20,6 +20,7 @@ const data = [
           },
         ]
       },
+      //Diğer buttonlar
       {
         id: 2,
         Title: 'Fırat2',
@@ -43,11 +44,12 @@ export default class Analyzes extends Component {
   };
 
   renderContentItem(item) {
+    const { selectedBox } = this.state;
     return (
       <AnalyzesBox
-        borderColor={this.state.selectedBox.id === item.id ? '#AD00FF' : 'white'} // Update border color for selected box
-        color={this.state.selectedBox.id === item.id ? '#AD00FF' : 'white'}
-        tintColor={this.state.selectedBox.id === item.id ? '#AD00FF' : 'white'}
+        borderColor={selectedBox.id === item.id ? '#AD00FF' : 'white'} // Update border color for selected box
+        color={selectedBox.id === item.id ? '#AD00FF' : 'white'}
+        tintColor={selectedBox.id === item.id ? '#AD00FF' : 'white'}
         source={item.Icon}
         title={item.Title}
         onPress={() => {
@@ -58,17 +60,18 @@ export default class Analyzes extends Component {
     );
   }
   renderAnalysisTitles(item) {
+    const { selectedBoxTitle } = this.state;
     return (
       <View style={styles.boxContainer}>
         {item.AnalyzesDescriptions.map((boxItem) => (
           <AnalyzesBox
             key={boxItem.id.toString()}
-            borderColor={this.state.selectedBoxTitle === boxItem.id ? '#AD00FF' : 'white'}
-            color={this.state.selectedBoxTitle === boxItem.id ? '#AD00FF' : 'white'}
-            tintColor={this.state.selectedBoxTitle === boxItem.id ? '#AD00FF' : 'white'}
+            borderColor={selectedBoxTitle === boxItem.id ? '#AD00FF' : 'white'}
+            color={selectedBoxTitle === boxItem.id ? '#AD00FF' : 'white'}
+            tintColor={selectedBoxTitle === boxItem.id ? '#AD00FF' : 'white'}
             source={boxItem.Icon}
             title={boxItem.Title}
-            onPress={() => {this.setState({ selectedBoxTitle: boxItem.id });}}
+            onPress={() => { this.setState({ selectedBoxTitle: boxItem.id }); }}
           />
         ))}
       </View>
@@ -76,6 +79,7 @@ export default class Analyzes extends Component {
   }
 
   render() {
+    const { selectedBoxData, selectedBox, selectedBoxTitle } = this.state;
     return (
       <View style={styles.ContainerS}>
         <View style={styles.Container}>
@@ -91,16 +95,16 @@ export default class Analyzes extends Component {
           <FlatList
             horizontal
             keyExtractor={(item) => item.id.toString()}
-            renderItem={({ item }) => this.renderAnalysisTitles(this.state.selectedBox)}
-            data={this.state.selectedBoxData}
+            renderItem={({ item }) => this.renderAnalysisTitles(selectedBox)}
+            data={selectedBoxData}
             showsHorizontalScrollIndicator={false}
           />
         </View>
-        <View style={{ width: '100%', height: 2, backgroundColor: 'white', marginBottom: 10, }} />
+        <View style={styles.line} />
         <View style={{ width: '100%', flex: 1, }}>
-          <Text style={styles.Title}>{this.state.selectedBox.AnalyzesDescriptions.find(item => item.id === this.state.selectedBoxTitle)?.Title}</Text>
+          <Text style={styles.Title}>{selectedBox.AnalyzesDescriptions.find(item => item.id === selectedBoxTitle)?.Title}</Text>
           <ScrollView>
-            <Text style={styles.description}>{this.state.selectedBox.AnalyzesDescriptions.find(item => item.id === this.state.selectedBoxTitle)?.description}</Text>
+            <Text style={styles.description}>{selectedBox.AnalyzesDescriptions.find(item => item.id === selectedBoxTitle)?.description}</Text>
           </ScrollView>
         </View>
       </View>
@@ -120,6 +124,12 @@ const styles = StyleSheet.create({
   boxContainer: {
     flexDirection: 'row',
   },
+  line:{ 
+    width: '100%', 
+    height: 2, 
+    backgroundColor: 'white', 
+    marginBottom: 10, 
+},
   Title: {
     fontFamily: 'Roboto-Black',
     fontSize: 20,
