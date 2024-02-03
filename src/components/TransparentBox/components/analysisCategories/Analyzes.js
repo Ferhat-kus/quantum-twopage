@@ -7,7 +7,7 @@ const data = [
   {
     id: 1,
     Title: 'Profil',
-    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item3.png'),
     FreeOrPremium: [
       {
         id: 1,
@@ -19,7 +19,7 @@ const data = [
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
         descriptionTitle: 'Ferhat',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
@@ -27,7 +27,7 @@ const data = [
       {
         id: 3,
         Title: 'Sosyal & İş Hayatı',
-        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item3.png'),
         descriptionTitle: 'EFE',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
@@ -35,7 +35,7 @@ const data = [
       {
         id: 4,
         Title: 'İlişkiler',
-        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
         descriptionTitle: 'AHMET',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
@@ -45,7 +45,7 @@ const data = [
   {
     id: 2,
     Title: 'Tip',
-    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
     FreeOrPremium: [
       {
         id: 1,
@@ -53,7 +53,7 @@ const data = [
         descriptionTitle: 'AHMET',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
 
       },
       {
@@ -62,7 +62,7 @@ const data = [
         descriptionTitle: 'AHMET',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
 
       },
       {
@@ -71,7 +71,7 @@ const data = [
         descriptionTitle: 'dfsddgf',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
       },
       {
         id: 4,
@@ -79,38 +79,38 @@ const data = [
         descriptionTitle: 'EFE',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
       
-        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
       },
       {
         id: 5,
         Title: 'Sağlık',
         descriptionTitle: 'fgdaggsggggsdg',
         description: 'Lorem ipsum dolor sitLorem ipsum dolor sit amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius. amet consectetur. Nisi leo pulvinar ornare sollicitudin ut at arcu at augue. Pulvinar faucibus suspendisse tortor eget condimentum. Dignissim ullamcorper quam dictumst ipsum ullamcorper lacinia turpis. In venenatis nulla donec venenatis ut. Lectus in bibendum sagittis diam vitae mauris ipsum ultrices turpis. Ipsum neque turpis tempus cras nisl purus ullamcorper orci ante. Amet ornare diam morbi nec. Ipsum at eu malesuada ultricies velit sollicitudin. Volutpat sapien pellentesque enim scelerisque facilisi ut elementum donec. Proin ut suspendisse commodo risus duis pretium amet. Cursus morbi pretium neque neque varius odio pellentesque at semper. Cursus enim quisque sociis risus massa mollis. Blandit nunc odio nunc varius.',
-        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
       },
     ]
   },
   {
     id: 3,
     Title: 'Otorite',
-    Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../assets/AnalyzesListIcon/item2.png'),
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Güçlü Yönler',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../assets/AnalyzesListIcon/item2.png'),
       },
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon: require('../../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../assets/AnalyzesListIcon/item2.png'),
       },
     ]
   },
   {
     id: 4,
     Title: 'Strateji',
-    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item2.png'),
     FreeOrPremium: [
       {
         id: 1,

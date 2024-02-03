@@ -6,124 +6,146 @@ const data = [
   {
     id: 1,
     Title: 'Profil',
-    Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Genel Bigiler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
       {
         id: 3,
         Title: 'Sosyal & İş Hayatı',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
       {
         id: 4,
         Title: 'İlişkiler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
     ]
   },
   {
     id: 2,
     Title: 'Tip',
-    Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Genel Bigiler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
       },
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
       },
       {
         id: 3,
         Title: 'İlişkiler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
       {
         id: 4,
         Title: 'Çocuk',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
       {
         id: 5,
         Title: 'Sağlık',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
     ]
   },
   {
     id: 3,
     Title: 'Otorite',
-    Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Güçlü Yönler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
     ]
   },
   {
     id: 4,
     Title: 'Strateji',
-    Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Güçlü Yönler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
       {
         id: 2,
         Title: 'Dikkat Edilmesi Gerekenler',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
       },
     ]
   },
   {
     id: 5,
     Title: 'Merkez',
-    Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Tepe',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -131,25 +153,29 @@ const data = [
       {
         id: 2,
         Title: 'Zihin',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -157,25 +183,29 @@ const data = [
       {
         id: 3,
         Title: 'İfade',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -183,25 +213,29 @@ const data = [
       {
         id: 4,
         Title: 'Benlik',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -209,25 +243,29 @@ const data = [
       {
         id: 5,
         Title: 'İrade',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -235,25 +273,29 @@ const data = [
       {
         id: 6,
         Title: 'Duygu',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -261,25 +303,29 @@ const data = [
       {
         id: 7,
         Title: 'Sakral',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -287,25 +333,29 @@ const data = [
       {
         id: 8,
         Title: 'Dalak',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -313,25 +363,29 @@ const data = [
       {
         id: 9,
         Title: 'Kök',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 3,
             Title: 'Karar Alma',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ],
@@ -341,24 +395,28 @@ const data = [
   {
     id: 6,
     Title: 'Kanallar',
-    Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Kendini Bilme',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -366,19 +424,22 @@ const data = [
       {
         id: 2,
         Title: 'Anlama',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -386,19 +447,22 @@ const data = [
       {
         id: 3,
         Title: 'Savunma',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -406,19 +470,22 @@ const data = [
       {
         id: 4,
         Title: 'Bütünleştirme',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -426,19 +493,22 @@ const data = [
       {
         id: 5,
         Title: 'Merkezlenme',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -446,19 +516,22 @@ const data = [
       {
         id: 6,
         Title: 'İrade',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -466,19 +539,22 @@ const data = [
       {
         id: 7,
         Title: 'Hissetme',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -488,24 +564,28 @@ const data = [
   {
     id: 7,
     Title: 'Kapılar',
-    Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+    Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
     FreeOrPremium: [
       {
         id: 1,
         Title: 'Tepe',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -513,19 +593,22 @@ const data = [
       {
         id: 2,
         Title: 'Zihin',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -533,19 +616,22 @@ const data = [
       {
         id: 3,
         Title: 'İfade',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -553,19 +639,22 @@ const data = [
       {
         id: 4,
         Title: 'Benlik',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -573,19 +662,22 @@ const data = [
       {
         id: 5,
         Title: 'İrade',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -593,19 +685,22 @@ const data = [
       {
         id: 6,
         Title: 'Duygu',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -613,19 +708,22 @@ const data = [
       {
         id: 7,
         Title: 'Sakral',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -633,19 +731,22 @@ const data = [
       {
         id: 8,
         Title: 'Dalak',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -653,19 +754,22 @@ const data = [
       {
         id: 9,
         Title: 'Kök',
-        Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+        Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
         AnalyzesDescriptions: [
           {
             id: 1,
             Title: 'Güçlü Yönler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
           {
             id: 2,
             Title: 'Dikkat Edilmesi Gerekenler',
-            Icon:require('../../assets/AnalyzesListIcon/item1.png'),
+            Icon: require('../../../../assets/AnalyzesListIcon/item1.png'),
+
 
           },
         ]
@@ -683,11 +787,11 @@ export default class Index extends Component {
         tintColor='white'
         source={item.Icon}
         title={item.Title}
-        onPress={() => {this.props.navigation.navigate('analysisCategoriesPage', { itemId: item.id });}}
+        onPress={() => { this.props.navigation.navigate('analysisCategoriesPage', { itemId: item.id }); }}
       />
     );
   }
-  
+
   render() {
     return (
       <View style={styles.ContainerS}>
