@@ -3,12 +3,12 @@ import React, { Component } from 'react'
 
 export default class Index extends Component {
     render() {
-        const { borderColor, color, tintColor } = this.props;
+        const { borderColor, color, tintColor, isFlat } = this.props;
         return (
-            <TouchableOpacity onPress={this.props.onPress} style={styles.ContentItemContainer}>
+            <TouchableOpacity onPress={this.props.onPress} style={isFlat ? styles.ContentItemContainer : styles.ContentItemContainerS}>
                 <View style={[styles.ContentItem, { borderColor: borderColor }]}>
                     <Image style={{ marginRight: 10, tintColor: tintColor, }} source={this.props.source} />
-                    <View style={{width:'50%',}}>
+                    <View style={{ width: '50%', }}>
                         <Text style={[styles.ContentItemText, { color: color, }]}>{this.props.title}</Text>
                     </View>
                 </View>
@@ -22,10 +22,19 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-around',
         width: 110,
-        height: 80,
+        height: 55,
         marginBottom: 10,
         marginRight: 10,
-        opacity: 0.8,
+        opacity: 1,
+    },
+    ContentItemContainerS: {
+        flexDirection: 'row',
+        justifyContent: 'space-around',
+        width: 110,
+        height: 80,
+        marginBottom: 10,
+        marginRight: 15,
+        opacity: 0.7,
     },
     ContentItem: {
         flex: 1,
@@ -38,6 +47,7 @@ const styles = StyleSheet.create({
     },
     ContentItemText: {
         fontSize: 13,
+        opacity: 1,
         fontFamily: 'Asap-SemiBold',
     },
 })

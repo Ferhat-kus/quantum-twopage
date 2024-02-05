@@ -2,7 +2,7 @@ import { Text, StyleSheet, View, Image } from 'react-native'
 import React, { Component } from 'react'
 
 import GoBack from '../../components/GoBack/Index';
-import Analyzes from './components/analysisCategories/Analyzes';
+import Analyzes from './components/analysisCategories/Index';
 export default class Index extends Component {
   render() {
     const { isFlat } = this.props;
@@ -19,7 +19,7 @@ export default class Index extends Component {
             <Text style={styles.Title}>Kategoriler</Text>
             <GoBack onPress={()=>this.props.navigation.goBack()} isFlat={true} />
           </View>
-          <Analyzes navigation={this.props.navigation}/>
+          <Analyzes isFlat={true} navigation={this.props.navigation}/>
         </View>
       )
     }
@@ -50,6 +50,7 @@ const styles = StyleSheet.create({
     paddingBottom:10,
   },
   BoxHeader: {
+    marginTop: 10,
     // backgroundColor: 'red',
     width: '71%',
     flexDirection: 'row',
