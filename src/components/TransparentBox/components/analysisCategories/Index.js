@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { Text, StyleSheet, View, FlatList, ScrollView, } from 'react-native';
+import { Text, StyleSheet, View, ScrollView, } from 'react-native';
 import AnalyzesBox from '../../../AnalyzesBox/Index';
-
+import FlatList from '../FlatList/Index';
 
 const data = [
   {
@@ -121,22 +121,16 @@ export default class Analyzes extends Component {
       <View style={styles.ContainerS}>
         <View style={styles.Container}>
           <FlatList
-            horizontal
             keyExtractor={(item) => item.id.toString()}
             renderItem={({ item }) => this.renderContentItem(item)}
-            data={data[0].FreeOrPremium}
-            showsHorizontalScrollIndicator={false}
-          />
+            data={data[0].FreeOrPremium} />
         </View>
         <View style={styles.line} />
         <View style={styles.Container}>
           <FlatList
-            horizontal
             keyExtractor={(item) => item.id.toString()}
             renderItem={({ item }) => this.renderAnalysisTitles(selectedBox)}
-            data={selectedBoxData}
-            showsHorizontalScrollIndicator={false}
-          />
+            data={selectedBoxData} />
         </View>
         <View style={styles.line} />
         <View style={{ width: '100%', flex: 1, }}>
